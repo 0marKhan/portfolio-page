@@ -7,7 +7,7 @@ To contribute to this repo :
 * Click on the fork button.
 * Then clone this repository on your local device. The command for that is : 
     ```
-    git clone https://github.com/AnikateKoul/portfolio-page.git
+    git clone https://github.com/0marKhan/portfolio-page.git
     ```
 * Now create a new branch using : 
     ```
